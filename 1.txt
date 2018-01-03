@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 fdasfd
+=======
+fdsafdsa
+>>>>>>> dev
